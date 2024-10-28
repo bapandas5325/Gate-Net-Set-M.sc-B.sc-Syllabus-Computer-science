@@ -1,1 +1,1 @@
-# Syllabus :-Computer science
+# Syllabus :Computer science
